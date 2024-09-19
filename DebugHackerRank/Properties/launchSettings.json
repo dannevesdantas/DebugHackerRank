@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DebugHackerRank": {
+      "commandName": "Project",
+      "commandLineArgs": "< ../../../input.txt",
+      "environmentVariables": {
+        "OUTPUT_PATH": "../../../output.txt"
+      }
+    }
+  }
+}
